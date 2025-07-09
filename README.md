@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/atharvarakshak/leetcode/tree/master/0148-sort-list) |
 | [0328-odd-even-linked-list](https://github.com/atharvarakshak/leetcode/tree/master/0328-odd-even-linked-list) |
 | [0382-linked-list-random-node](https://github.com/atharvarakshak/leetcode/tree/master/0382-linked-list-random-node) |
 ## Math
@@ -20,4 +21,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/atharvarakshak/leetcode/tree/master/0382-linked-list-random-node) |
+## Two Pointers
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/atharvarakshak/leetcode/tree/master/0148-sort-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/atharvarakshak/leetcode/tree/master/0148-sort-list) |
+## Sorting
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/atharvarakshak/leetcode/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/atharvarakshak/leetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
