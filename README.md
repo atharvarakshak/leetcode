@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0328-odd-even-linked-list](https://github.com/atharvarakshak/leetcode/tree/master/0328-odd-even-linked-list) |
 | [0382-linked-list-random-node](https://github.com/atharvarakshak/leetcode/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/atharvarakshak/leetcode/tree/master/0445-add-two-numbers-ii) |
+| [1484-linked-list-in-binary-tree](https://github.com/atharvarakshak/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 ## Math
 |  |
 | ------- |
@@ -61,4 +62,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0445-add-two-numbers-ii](https://github.com/atharvarakshak/leetcode/tree/master/0445-add-two-numbers-ii) |
+## Tree
+|  |
+| ------- |
+| [1484-linked-list-in-binary-tree](https://github.com/atharvarakshak/leetcode/tree/master/1484-linked-list-in-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [1484-linked-list-in-binary-tree](https://github.com/atharvarakshak/leetcode/tree/master/1484-linked-list-in-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1484-linked-list-in-binary-tree](https://github.com/atharvarakshak/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 <!---LeetCode Topics End-->
