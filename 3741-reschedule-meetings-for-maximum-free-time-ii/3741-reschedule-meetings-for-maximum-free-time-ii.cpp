@@ -3,24 +3,52 @@ public:
     int maxFreeTime(int eventTime, vector<int>& startTime,
                     vector<int>& endTime) {
         int n = startTime.size(), res = 0;
-        for (int i = 0, t1 = 0, t2 = 0; i < n; i++) {
-            int left1 = i == 0 ? 0 : endTime[i - 1];
-            int right1 = i == n - 1 ? eventTime : startTime[i + 1];
-            if (endTime[i] - startTime[i] <= t1) {
-                res = max(res, right1 - left1);
-            }
-            t1 = max(t1, startTime[i] - (i == 0 ? 0 : endTime[i - 1]));
+        vector<int> free;
+        
+        vector<pair<int,int>> event;
 
-            res = max(res, right1 - left1 - (endTime[i] - startTime[i]));
-
-            int left2 = i == n - 1 ? 0 : endTime[n - i - 2];
-            int right2 = i == 0 ? eventTime : startTime[n - i];
-            if (endTime[n - i - 1] - startTime[n - i - 1] <= t2) {
-                res = max(res, right2 - left2);
-            }
-            t2 = max(t2, (i == 0 ? eventTime : startTime[n - i]) -
-                             endTime[n - i - 1]);
+        
+        for (int i = 0; i < n; i++) {
+            event.push_back({startTime[i], endTime[i]});
         }
+
+
+     
+         free.push_back(event[0].first);
+        
+
+        for (int i = 1; i < n; i++) {
+            int gap = event[i].first - event[i - 1].second;
+            free.push_back(gap);
+        }
+
+            free.push_back(eventTime - event[n - 1].second);
+
+
+            int m= free.size();
+            vector<int> maxFreeLeft(m,0),maxFreeRight(m,0);
+            maxFreeLeft[0]=0;
+            maxFreeRight[m-1]=0;
+            int maxL=0,maxR=0;
+            for(int i=1;i<m;i++){
+                maxFreeLeft[i] = max(free[i-1],maxFreeLeft[i-1]);
+            }
+             for(int i=m-2;i>=0;i--){
+                maxFreeRight[i] = max(free[i+1],maxFreeRight[i+1]);
+            }
+
+            for(int i=1;i<m;i++){
+                int x = (event[i-1].second - event[i-1].first);
+                if(x<= max(maxFreeLeft[i-1],maxFreeRight[i])){
+                    res= max(res,x+free[i-1]+free[i]);
+                }
+                else{
+                     res= max(res,free[i-1]+free[i]);
+                }
+            }
+
+
+        
         return res;
     }
 };
