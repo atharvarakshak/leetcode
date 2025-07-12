@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/atharvarakshak/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/atharvarakshak/leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/atharvarakshak/leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Greedy
@@ -53,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/atharvarakshak/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/atharvarakshak/leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Enumeration
 |  |
@@ -94,4 +96,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/atharvarakshak/leetcode/tree/master/0210-course-schedule-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/atharvarakshak/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/atharvarakshak/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
