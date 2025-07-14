@@ -121,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/atharvarakshak/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/atharvarakshak/leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/atharvarakshak/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -133,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/atharvarakshak/leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/atharvarakshak/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Dynamic Programming
 |  |
 | ------- |
