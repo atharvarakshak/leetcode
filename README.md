@@ -135,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/atharvarakshak/leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/atharvarakshak/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [3931-process-string-with-special-operations-i](https://github.com/atharvarakshak/leetcode/tree/master/3931-process-string-with-special-operations-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -143,4 +144,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/atharvarakshak/leetcode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
+## Simulation
+|  |
+| ------- |
+| [3931-process-string-with-special-operations-i](https://github.com/atharvarakshak/leetcode/tree/master/3931-process-string-with-special-operations-i) |
 <!---LeetCode Topics End-->
