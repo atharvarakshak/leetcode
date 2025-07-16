@@ -149,4 +149,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3931-process-string-with-special-operations-i](https://github.com/atharvarakshak/leetcode/tree/master/3931-process-string-with-special-operations-i) |
+## Database
+|  |
+| ------- |
+| [1317-monthly-transactions-i](https://github.com/atharvarakshak/leetcode/tree/master/1317-monthly-transactions-i) |
 <!---LeetCode Topics End-->
