@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/atharvarakshak/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/atharvarakshak/leetcode/tree/master/0220-contains-duplicate-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/atharvarakshak/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/atharvarakshak/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/atharvarakshak/leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/atharvarakshak/leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/atharvarakshak/leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -141,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/atharvarakshak/leetcode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/atharvarakshak/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Memoization
 |  |
 | ------- |
