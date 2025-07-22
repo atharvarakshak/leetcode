@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/atharvarakshak/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/atharvarakshak/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/atharvarakshak/leetcode/tree/master/0220-contains-duplicate-iii) |
+| [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/atharvarakshak/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/atharvarakshak/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/atharvarakshak/leetcode/tree/master/0658-find-k-closest-elements) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/atharvarakshak/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -160,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/atharvarakshak/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/atharvarakshak/leetcode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/atharvarakshak/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/atharvarakshak/leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
