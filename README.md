@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0658-find-k-closest-elements](https://github.com/atharvarakshak/leetcode/tree/master/0658-find-k-closest-elements) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/atharvarakshak/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1813-maximum-erasure-value](https://github.com/atharvarakshak/leetcode/tree/master/1813-maximum-erasure-value) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/atharvarakshak/leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/atharvarakshak/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/atharvarakshak/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/atharvarakshak/leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1484-linked-list-in-binary-tree](https://github.com/atharvarakshak/leetcode/tree/master/1484-linked-list-in-binary-tree) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/atharvarakshak/leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -106,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0801-is-graph-bipartite](https://github.com/atharvarakshak/leetcode/tree/master/0801-is-graph-bipartite) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/atharvarakshak/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1484-linked-list-in-binary-tree](https://github.com/atharvarakshak/leetcode/tree/master/1484-linked-list-in-binary-tree) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/atharvarakshak/leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -199,4 +202,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/atharvarakshak/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/atharvarakshak/leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 <!---LeetCode Topics End-->
