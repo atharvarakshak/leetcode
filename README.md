@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/atharvarakshak/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0148-sort-list](https://github.com/atharvarakshak/leetcode/tree/master/0148-sort-list) |
 | [0658-find-k-closest-elements](https://github.com/atharvarakshak/leetcode/tree/master/0658-find-k-closest-elements) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/atharvarakshak/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -163,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/atharvarakshak/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0072-edit-distance](https://github.com/atharvarakshak/leetcode/tree/master/0072-edit-distance) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/atharvarakshak/leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1170-shortest-common-supersequence](https://github.com/atharvarakshak/leetcode/tree/master/1170-shortest-common-supersequence) |
@@ -174,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/atharvarakshak/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0055-jump-game](https://github.com/atharvarakshak/leetcode/tree/master/0055-jump-game) |
 | [0072-edit-distance](https://github.com/atharvarakshak/leetcode/tree/master/0072-edit-distance) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/atharvarakshak/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
