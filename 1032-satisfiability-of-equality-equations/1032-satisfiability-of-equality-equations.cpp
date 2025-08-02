@@ -2,30 +2,27 @@ class Solution {
 public:
         vector<int> parent,rank;
       
-    int find(int x){
+   int find(int x){
         if(parent[x]!=x){
             return parent[x] = find(parent[x]);
         }
-
         return parent[x];
     }
-    void unite(int x, int y){
-        
-        int x_parent = find(x),y_parent = find(y);
-        if(x_parent == y_parent)return ;
 
-        if(rank[x_parent]>rank[y_parent]){
-            parent[y_parent] = x_parent;
+    void Union(int x,int y){
+
+        int x_p = find(x), y_p = find(y);
+
+        if(rank[x_p]>rank[y_p] ){
+            parent[y_p] = x_p;
         }
-        else if(rank[x_parent]>rank[y_parent]){
-            parent[x_parent] = y_parent;
+        else if(rank[x_p]<rank[y_p] ){
+            parent[x_p] = y_p;
         }
         else{
-            parent[x_parent] = y_parent;
-            rank[y_parent]++;
+            parent[x_p]=y_p;
+            rank[y_p]++;
         }
-
-
     }
 
 
@@ -40,7 +37,7 @@ public:
 
         for(auto s : equations){
             if(s[1]=='='){
-                unite(s[0]-'a',s[3]-'a');
+                Union(s[0]-'a',s[3]-'a');
             }
             
         }
@@ -55,4 +52,6 @@ public:
 
         return true;
     }
+
+   
 };
