@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/atharvarakshak/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/atharvarakshak/leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/atharvarakshak/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2529-range-product-queries-of-powers](https://github.com/atharvarakshak/leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [2689-rearranging-fruits](https://github.com/atharvarakshak/leetcode/tree/master/2689-rearranging-fruits) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/atharvarakshak/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/atharvarakshak/leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -179,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/atharvarakshak/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/atharvarakshak/leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2529-range-product-queries-of-powers](https://github.com/atharvarakshak/leetcode/tree/master/2529-range-product-queries-of-powers) |
 ## Hash Table
 |  |
 | ------- |
@@ -260,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/atharvarakshak/leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/atharvarakshak/leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/atharvarakshak/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2529-range-product-queries-of-powers](https://github.com/atharvarakshak/leetcode/tree/master/2529-range-product-queries-of-powers) |
 ## Backtracking
 |  |
 | ------- |
