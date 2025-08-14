@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0357-count-numbers-with-unique-digits](https://github.com/atharvarakshak/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0382-linked-list-random-node](https://github.com/atharvarakshak/leetcode/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/atharvarakshak/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0900-reordered-power-of-2](https://github.com/atharvarakshak/leetcode/tree/master/0900-reordered-power-of-2) |
@@ -232,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/atharvarakshak/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0337-house-robber-iii](https://github.com/atharvarakshak/leetcode/tree/master/0337-house-robber-iii) |
 | [0338-counting-bits](https://github.com/atharvarakshak/leetcode/tree/master/0338-counting-bits) |
+| [0357-count-numbers-with-unique-digits](https://github.com/atharvarakshak/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0435-non-overlapping-intervals](https://github.com/atharvarakshak/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0518-coin-change-ii](https://github.com/atharvarakshak/leetcode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/atharvarakshak/leetcode/tree/master/0542-01-matrix) |
@@ -282,6 +284,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [0357-count-numbers-with-unique-digits](https://github.com/atharvarakshak/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/atharvarakshak/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Brainteaser
 |  |
