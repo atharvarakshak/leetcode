@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/atharvarakshak/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/atharvarakshak/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0473-matchsticks-to-square](https://github.com/atharvarakshak/leetcode/tree/master/0473-matchsticks-to-square) |
+| [0474-ones-and-zeroes](https://github.com/atharvarakshak/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0518-coin-change-ii](https://github.com/atharvarakshak/leetcode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/atharvarakshak/leetcode/tree/master/0542-01-matrix) |
 | [0658-find-k-closest-elements](https://github.com/atharvarakshak/leetcode/tree/master/0658-find-k-closest-elements) |
@@ -215,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/atharvarakshak/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0072-edit-distance](https://github.com/atharvarakshak/leetcode/tree/master/0072-edit-distance) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/atharvarakshak/leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0474-ones-and-zeroes](https://github.com/atharvarakshak/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0583-delete-operation-for-two-strings](https://github.com/atharvarakshak/leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [1032-satisfiability-of-equality-equations](https://github.com/atharvarakshak/leetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1170-shortest-common-supersequence](https://github.com/atharvarakshak/leetcode/tree/master/1170-shortest-common-supersequence) |
@@ -239,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0357-count-numbers-with-unique-digits](https://github.com/atharvarakshak/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0435-non-overlapping-intervals](https://github.com/atharvarakshak/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0473-matchsticks-to-square](https://github.com/atharvarakshak/leetcode/tree/master/0473-matchsticks-to-square) |
+| [0474-ones-and-zeroes](https://github.com/atharvarakshak/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0518-coin-change-ii](https://github.com/atharvarakshak/leetcode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/atharvarakshak/leetcode/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/atharvarakshak/leetcode/tree/master/0583-delete-operation-for-two-strings) |
