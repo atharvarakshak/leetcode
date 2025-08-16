@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0357-count-numbers-with-unique-digits](https://github.com/atharvarakshak/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0382-linked-list-random-node](https://github.com/atharvarakshak/leetcode/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/atharvarakshak/leetcode/tree/master/0445-add-two-numbers-ii) |
+| [0486-predict-the-winner](https://github.com/atharvarakshak/leetcode/tree/master/0486-predict-the-winner) |
 | [0900-reordered-power-of-2](https://github.com/atharvarakshak/leetcode/tree/master/0900-reordered-power-of-2) |
 ## Reservoir Sampling
 |  |
@@ -68,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0435-non-overlapping-intervals](https://github.com/atharvarakshak/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0473-matchsticks-to-square](https://github.com/atharvarakshak/leetcode/tree/master/0473-matchsticks-to-square) |
 | [0474-ones-and-zeroes](https://github.com/atharvarakshak/leetcode/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/atharvarakshak/leetcode/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/atharvarakshak/leetcode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/atharvarakshak/leetcode/tree/master/0542-01-matrix) |
 | [0658-find-k-closest-elements](https://github.com/atharvarakshak/leetcode/tree/master/0658-find-k-closest-elements) |
@@ -242,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0435-non-overlapping-intervals](https://github.com/atharvarakshak/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0473-matchsticks-to-square](https://github.com/atharvarakshak/leetcode/tree/master/0473-matchsticks-to-square) |
 | [0474-ones-and-zeroes](https://github.com/atharvarakshak/leetcode/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/atharvarakshak/leetcode/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/atharvarakshak/leetcode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/atharvarakshak/leetcode/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/atharvarakshak/leetcode/tree/master/0583-delete-operation-for-two-strings) |
@@ -308,4 +311,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0473-matchsticks-to-square](https://github.com/atharvarakshak/leetcode/tree/master/0473-matchsticks-to-square) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/atharvarakshak/leetcode/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/atharvarakshak/leetcode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
