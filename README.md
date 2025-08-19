@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0518-coin-change-ii](https://github.com/atharvarakshak/leetcode/tree/master/0518-coin-change-ii) |
 | [0526-beautiful-arrangement](https://github.com/atharvarakshak/leetcode/tree/master/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/atharvarakshak/leetcode/tree/master/0542-01-matrix) |
+| [0560-subarray-sum-equals-k](https://github.com/atharvarakshak/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/atharvarakshak/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/atharvarakshak/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1032-satisfiability-of-equality-equations](https://github.com/atharvarakshak/leetcode/tree/master/1032-satisfiability-of-equality-equations) |
@@ -198,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/atharvarakshak/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/atharvarakshak/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/atharvarakshak/leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2529-range-product-queries-of-powers](https://github.com/atharvarakshak/leetcode/tree/master/2529-range-product-queries-of-powers) |
 ## Hash Table
@@ -207,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/atharvarakshak/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/atharvarakshak/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/atharvarakshak/leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0560-subarray-sum-equals-k](https://github.com/atharvarakshak/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0900-reordered-power-of-2](https://github.com/atharvarakshak/leetcode/tree/master/0900-reordered-power-of-2) |
 | [1813-maximum-erasure-value](https://github.com/atharvarakshak/leetcode/tree/master/1813-maximum-erasure-value) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/atharvarakshak/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
