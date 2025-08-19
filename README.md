@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/atharvarakshak/leetcode/tree/master/0148-sort-list) |
+| [0217-contains-duplicate](https://github.com/atharvarakshak/leetcode/tree/master/0217-contains-duplicate) |
 | [0220-contains-duplicate-iii](https://github.com/atharvarakshak/leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/atharvarakshak/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/atharvarakshak/leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -64,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0120-triangle](https://github.com/atharvarakshak/leetcode/tree/master/0120-triangle) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/atharvarakshak/leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0209-minimum-size-subarray-sum](https://github.com/atharvarakshak/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/atharvarakshak/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/atharvarakshak/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/atharvarakshak/leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/atharvarakshak/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -202,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/atharvarakshak/leetcode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/atharvarakshak/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/atharvarakshak/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/atharvarakshak/leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0900-reordered-power-of-2](https://github.com/atharvarakshak/leetcode/tree/master/0900-reordered-power-of-2) |
