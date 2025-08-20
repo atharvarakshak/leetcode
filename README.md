@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/atharvarakshak/leetcode/tree/master/0070-climbing-stairs) |
 | [0357-count-numbers-with-unique-digits](https://github.com/atharvarakshak/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0382-linked-list-random-node](https://github.com/atharvarakshak/leetcode/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/atharvarakshak/leetcode/tree/master/0445-add-two-numbers-ii) |
@@ -250,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/atharvarakshak/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0055-jump-game](https://github.com/atharvarakshak/leetcode/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/atharvarakshak/leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/atharvarakshak/leetcode/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/atharvarakshak/leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/atharvarakshak/leetcode/tree/master/0120-triangle) |
@@ -275,6 +277,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/atharvarakshak/leetcode/tree/master/0070-climbing-stairs) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/atharvarakshak/leetcode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 ## Simulation
 |  |
