@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0486-predict-the-winner](https://github.com/atharvarakshak/leetcode/tree/master/0486-predict-the-winner) |
 | [0900-reordered-power-of-2](https://github.com/atharvarakshak/leetcode/tree/master/0900-reordered-power-of-2) |
 | [1448-maximum-69-number](https://github.com/atharvarakshak/leetcode/tree/master/1448-maximum-69-number) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/atharvarakshak/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Reservoir Sampling
 |  |
 | ------- |
@@ -91,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/atharvarakshak/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/atharvarakshak/leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/atharvarakshak/leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/atharvarakshak/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/atharvarakshak/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/atharvarakshak/leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/atharvarakshak/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
