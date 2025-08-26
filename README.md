@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/atharvarakshak/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/atharvarakshak/leetcode/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/atharvarakshak/leetcode/tree/master/0148-sort-list) |
+| [0481-magical-string](https://github.com/atharvarakshak/leetcode/tree/master/0481-magical-string) |
 | [0658-find-k-closest-elements](https://github.com/atharvarakshak/leetcode/tree/master/0658-find-k-closest-elements) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/atharvarakshak/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Divide and Conquer
@@ -250,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0389-find-the-difference](https://github.com/atharvarakshak/leetcode/tree/master/0389-find-the-difference) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/atharvarakshak/leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0474-ones-and-zeroes](https://github.com/atharvarakshak/leetcode/tree/master/0474-ones-and-zeroes) |
+| [0481-magical-string](https://github.com/atharvarakshak/leetcode/tree/master/0481-magical-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/atharvarakshak/leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [1032-satisfiability-of-equality-equations](https://github.com/atharvarakshak/leetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1170-shortest-common-supersequence](https://github.com/atharvarakshak/leetcode/tree/master/1170-shortest-common-supersequence) |
