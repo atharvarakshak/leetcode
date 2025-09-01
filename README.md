@@ -97,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/atharvarakshak/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/atharvarakshak/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1813-maximum-erasure-value](https://github.com/atharvarakshak/leetcode/tree/master/1813-maximum-erasure-value) |
+| [1917-maximum-average-pass-ratio](https://github.com/atharvarakshak/leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/atharvarakshak/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/atharvarakshak/leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/atharvarakshak/leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -120,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0435-non-overlapping-intervals](https://github.com/atharvarakshak/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [1448-maximum-69-number](https://github.com/atharvarakshak/leetcode/tree/master/1448-maximum-69-number) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/atharvarakshak/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1917-maximum-average-pass-ratio](https://github.com/atharvarakshak/leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/atharvarakshak/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2689-rearranging-fruits](https://github.com/atharvarakshak/leetcode/tree/master/2689-rearranging-fruits) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/atharvarakshak/leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
@@ -330,6 +332,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/atharvarakshak/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/atharvarakshak/leetcode/tree/master/0658-find-k-closest-elements) |
+| [1917-maximum-average-pass-ratio](https://github.com/atharvarakshak/leetcode/tree/master/1917-maximum-average-pass-ratio) |
 ## Matrix
 |  |
 | ------- |
