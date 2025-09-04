@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1448-maximum-69-number](https://github.com/atharvarakshak/leetcode/tree/master/1448-maximum-69-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/atharvarakshak/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/atharvarakshak/leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3830-find-closest-person](https://github.com/atharvarakshak/leetcode/tree/master/3830-find-closest-person) |
 ## Reservoir Sampling
 |  |
 | ------- |
