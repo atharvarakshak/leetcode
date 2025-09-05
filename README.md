@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/atharvarakshak/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/atharvarakshak/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/atharvarakshak/leetcode/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/atharvarakshak/leetcode/tree/master/0148-sort-list) |
 | [0481-magical-string](https://github.com/atharvarakshak/leetcode/tree/master/0481-magical-string) |
@@ -71,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/atharvarakshak/leetcode/tree/master/0001-two-sum) |
 | [0055-jump-game](https://github.com/atharvarakshak/leetcode/tree/master/0055-jump-game) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/atharvarakshak/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/atharvarakshak/leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/atharvarakshak/leetcode/tree/master/0120-triangle) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/atharvarakshak/leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
