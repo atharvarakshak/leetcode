@@ -253,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1960-check-if-the-sentence-is-pangram](https://github.com/atharvarakshak/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2689-rearranging-fruits](https://github.com/atharvarakshak/leetcode/tree/master/2689-rearranging-fruits) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/atharvarakshak/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/atharvarakshak/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -286,6 +287,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2887-sort-vowels-in-a-string](https://github.com/atharvarakshak/leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3396-valid-word](https://github.com/atharvarakshak/leetcode/tree/master/3396-valid-word) |
 | [3462-vowels-game-in-a-string](https://github.com/atharvarakshak/leetcode/tree/master/3462-vowels-game-in-a-string) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/atharvarakshak/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3931-process-string-with-special-operations-i](https://github.com/atharvarakshak/leetcode/tree/master/3931-process-string-with-special-operations-i) |
 ## Dynamic Programming
 |  |
@@ -388,6 +390,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0383-ransom-note](https://github.com/atharvarakshak/leetcode/tree/master/0383-ransom-note) |
 | [0900-reordered-power-of-2](https://github.com/atharvarakshak/leetcode/tree/master/0900-reordered-power-of-2) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/atharvarakshak/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Bitmask
 |  |
 | ------- |
