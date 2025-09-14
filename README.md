@@ -276,6 +276,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0467-unique-substrings-in-wraparound-string](https://github.com/atharvarakshak/leetcode/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0474-ones-and-zeroes](https://github.com/atharvarakshak/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0481-magical-string](https://github.com/atharvarakshak/leetcode/tree/master/0481-magical-string) |
+| [0516-longest-palindromic-subsequence](https://github.com/atharvarakshak/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/atharvarakshak/leetcode/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/atharvarakshak/leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [1032-satisfiability-of-equality-equations](https://github.com/atharvarakshak/leetcode/tree/master/1032-satisfiability-of-equality-equations) |
@@ -308,6 +309,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0473-matchsticks-to-square](https://github.com/atharvarakshak/leetcode/tree/master/0473-matchsticks-to-square) |
 | [0474-ones-and-zeroes](https://github.com/atharvarakshak/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/atharvarakshak/leetcode/tree/master/0486-predict-the-winner) |
+| [0516-longest-palindromic-subsequence](https://github.com/atharvarakshak/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/atharvarakshak/leetcode/tree/master/0518-coin-change-ii) |
 | [0526-beautiful-arrangement](https://github.com/atharvarakshak/leetcode/tree/master/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/atharvarakshak/leetcode/tree/master/0542-01-matrix) |
