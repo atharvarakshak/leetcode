@@ -343,6 +343,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0610-triangle-judgement](https://github.com/atharvarakshak/leetcode/tree/master/0610-triangle-judgement) |
+| [1155-product-sales-analysis-iii](https://github.com/atharvarakshak/leetcode/tree/master/1155-product-sales-analysis-iii) |
 | [1317-monthly-transactions-i](https://github.com/atharvarakshak/leetcode/tree/master/1317-monthly-transactions-i) |
 | [1327-last-person-to-fit-in-the-bus](https://github.com/atharvarakshak/leetcode/tree/master/1327-last-person-to-fit-in-the-bus) |
 ## Trie
