@@ -346,6 +346,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1155-product-sales-analysis-iii](https://github.com/atharvarakshak/leetcode/tree/master/1155-product-sales-analysis-iii) |
 | [1317-monthly-transactions-i](https://github.com/atharvarakshak/leetcode/tree/master/1317-monthly-transactions-i) |
 | [1327-last-person-to-fit-in-the-bus](https://github.com/atharvarakshak/leetcode/tree/master/1327-last-person-to-fit-in-the-bus) |
+| [1811-fix-names-in-a-table](https://github.com/atharvarakshak/leetcode/tree/master/1811-fix-names-in-a-table) |
 ## Trie
 |  |
 | ------- |
