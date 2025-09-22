@@ -355,6 +355,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1278-product-price-at-a-given-date](https://github.com/atharvarakshak/leetcode/tree/master/1278-product-price-at-a-given-date) |
 | [1317-monthly-transactions-i](https://github.com/atharvarakshak/leetcode/tree/master/1317-monthly-transactions-i) |
 | [1327-last-person-to-fit-in-the-bus](https://github.com/atharvarakshak/leetcode/tree/master/1327-last-person-to-fit-in-the-bus) |
+| [1415-students-and-examinations](https://github.com/atharvarakshak/leetcode/tree/master/1415-students-and-examinations) |
 | [1811-fix-names-in-a-table](https://github.com/atharvarakshak/leetcode/tree/master/1811-fix-names-in-a-table) |
 ## Trie
 |  |
