@@ -350,6 +350,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0610-triangle-judgement](https://github.com/atharvarakshak/leetcode/tree/master/0610-triangle-judgement) |
+| [0619-biggest-single-number](https://github.com/atharvarakshak/leetcode/tree/master/0619-biggest-single-number) |
 | [1155-product-sales-analysis-iii](https://github.com/atharvarakshak/leetcode/tree/master/1155-product-sales-analysis-iii) |
 | [1161-project-employees-i](https://github.com/atharvarakshak/leetcode/tree/master/1161-project-employees-i) |
 | [1278-product-price-at-a-given-date](https://github.com/atharvarakshak/leetcode/tree/master/1278-product-price-at-a-given-date) |
