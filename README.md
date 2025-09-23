@@ -360,6 +360,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1415-students-and-examinations](https://github.com/atharvarakshak/leetcode/tree/master/1415-students-and-examinations) |
 | [1811-fix-names-in-a-table](https://github.com/atharvarakshak/leetcode/tree/master/1811-fix-names-in-a-table) |
 | [2087-confirmation-rate](https://github.com/atharvarakshak/leetcode/tree/master/2087-confirmation-rate) |
+| [2127-employees-whose-manager-left-the-company](https://github.com/atharvarakshak/leetcode/tree/master/2127-employees-whose-manager-left-the-company) |
 ## Trie
 |  |
 | ------- |
