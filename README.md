@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/atharvarakshak/leetcode/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/atharvarakshak/leetcode/tree/master/0070-climbing-stairs) |
 | [0357-count-numbers-with-unique-digits](https://github.com/atharvarakshak/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0382-linked-list-random-node](https://github.com/atharvarakshak/leetcode/tree/master/0382-linked-list-random-node) |
@@ -244,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/atharvarakshak/leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/atharvarakshak/leetcode/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/atharvarakshak/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/atharvarakshak/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0299-bulls-and-cows](https://github.com/atharvarakshak/leetcode/tree/master/0299-bulls-and-cows) |
@@ -273,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/atharvarakshak/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/atharvarakshak/leetcode/tree/master/0013-roman-to-integer) |
 | [0072-edit-distance](https://github.com/atharvarakshak/leetcode/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/atharvarakshak/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/atharvarakshak/leetcode/tree/master/0151-reverse-words-in-a-string) |
