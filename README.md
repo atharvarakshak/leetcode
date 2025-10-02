@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0518-coin-change-ii](https://github.com/atharvarakshak/leetcode/tree/master/0518-coin-change-ii) |
 | [0526-beautiful-arrangement](https://github.com/atharvarakshak/leetcode/tree/master/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/atharvarakshak/leetcode/tree/master/0542-01-matrix) |
+| [0546-remove-boxes](https://github.com/atharvarakshak/leetcode/tree/master/0546-remove-boxes) |
 | [0560-subarray-sum-equals-k](https://github.com/atharvarakshak/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/atharvarakshak/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0830-largest-triangle-area](https://github.com/atharvarakshak/leetcode/tree/master/0830-largest-triangle-area) |
@@ -334,6 +335,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0518-coin-change-ii](https://github.com/atharvarakshak/leetcode/tree/master/0518-coin-change-ii) |
 | [0526-beautiful-arrangement](https://github.com/atharvarakshak/leetcode/tree/master/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/atharvarakshak/leetcode/tree/master/0542-01-matrix) |
+| [0546-remove-boxes](https://github.com/atharvarakshak/leetcode/tree/master/0546-remove-boxes) |
 | [0583-delete-operation-for-two-strings](https://github.com/atharvarakshak/leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/atharvarakshak/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1170-shortest-common-supersequence](https://github.com/atharvarakshak/leetcode/tree/master/1170-shortest-common-supersequence) |
@@ -350,6 +352,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0070-climbing-stairs](https://github.com/atharvarakshak/leetcode/tree/master/0070-climbing-stairs) |
 | [0464-can-i-win](https://github.com/atharvarakshak/leetcode/tree/master/0464-can-i-win) |
+| [0546-remove-boxes](https://github.com/atharvarakshak/leetcode/tree/master/0546-remove-boxes) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/atharvarakshak/leetcode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 ## Simulation
 |  |
