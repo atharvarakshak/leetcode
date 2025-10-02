@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0412-fizz-buzz](https://github.com/atharvarakshak/leetcode/tree/master/0412-fizz-buzz) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/atharvarakshak/leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0445-add-two-numbers-ii](https://github.com/atharvarakshak/leetcode/tree/master/0445-add-two-numbers-ii) |
+| [0464-can-i-win](https://github.com/atharvarakshak/leetcode/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/atharvarakshak/leetcode/tree/master/0486-predict-the-winner) |
 | [0830-largest-triangle-area](https://github.com/atharvarakshak/leetcode/tree/master/0830-largest-triangle-area) |
 | [0900-reordered-power-of-2](https://github.com/atharvarakshak/leetcode/tree/master/0900-reordered-power-of-2) |
@@ -324,6 +325,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0357-count-numbers-with-unique-digits](https://github.com/atharvarakshak/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0376-wiggle-subsequence](https://github.com/atharvarakshak/leetcode/tree/master/0376-wiggle-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/atharvarakshak/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0464-can-i-win](https://github.com/atharvarakshak/leetcode/tree/master/0464-can-i-win) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/atharvarakshak/leetcode/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0473-matchsticks-to-square](https://github.com/atharvarakshak/leetcode/tree/master/0473-matchsticks-to-square) |
 | [0474-ones-and-zeroes](https://github.com/atharvarakshak/leetcode/tree/master/0474-ones-and-zeroes) |
@@ -347,6 +349,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/atharvarakshak/leetcode/tree/master/0070-climbing-stairs) |
+| [0464-can-i-win](https://github.com/atharvarakshak/leetcode/tree/master/0464-can-i-win) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/atharvarakshak/leetcode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 ## Simulation
 |  |
@@ -399,6 +402,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0338-counting-bits](https://github.com/atharvarakshak/leetcode/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/atharvarakshak/leetcode/tree/master/0389-find-the-difference) |
+| [0464-can-i-win](https://github.com/atharvarakshak/leetcode/tree/master/0464-can-i-win) |
 | [0473-matchsticks-to-square](https://github.com/atharvarakshak/leetcode/tree/master/0473-matchsticks-to-square) |
 | [0526-beautiful-arrangement](https://github.com/atharvarakshak/leetcode/tree/master/0526-beautiful-arrangement) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/atharvarakshak/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -431,6 +435,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bitmask
 |  |
 | ------- |
+| [0464-can-i-win](https://github.com/atharvarakshak/leetcode/tree/master/0464-can-i-win) |
 | [0473-matchsticks-to-square](https://github.com/atharvarakshak/leetcode/tree/master/0473-matchsticks-to-square) |
 | [0526-beautiful-arrangement](https://github.com/atharvarakshak/leetcode/tree/master/0526-beautiful-arrangement) |
 ## Recursion
@@ -440,6 +445,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Game Theory
 |  |
 | ------- |
+| [0464-can-i-win](https://github.com/atharvarakshak/leetcode/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/atharvarakshak/leetcode/tree/master/0486-predict-the-winner) |
 | [3462-vowels-game-in-a-string](https://github.com/atharvarakshak/leetcode/tree/master/3462-vowels-game-in-a-string) |
 ## Monotonic Stack
