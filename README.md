@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0328-odd-even-linked-list](https://github.com/atharvarakshak/leetcode/tree/master/0328-odd-even-linked-list) |
 | [0382-linked-list-random-node](https://github.com/atharvarakshak/leetcode/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/atharvarakshak/leetcode/tree/master/0445-add-two-numbers-ii) |
+| [0816-design-hashset](https://github.com/atharvarakshak/leetcode/tree/master/0816-design-hashset) |
 | [1484-linked-list-in-binary-tree](https://github.com/atharvarakshak/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 ## Math
 |  |
@@ -103,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0546-remove-boxes](https://github.com/atharvarakshak/leetcode/tree/master/0546-remove-boxes) |
 | [0560-subarray-sum-equals-k](https://github.com/atharvarakshak/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/atharvarakshak/leetcode/tree/master/0658-find-k-closest-elements) |
+| [0816-design-hashset](https://github.com/atharvarakshak/leetcode/tree/master/0816-design-hashset) |
 | [0830-largest-triangle-area](https://github.com/atharvarakshak/leetcode/tree/master/0830-largest-triangle-area) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/atharvarakshak/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1006-vowel-spellchecker](https://github.com/atharvarakshak/leetcode/tree/master/1006-vowel-spellchecker) |
@@ -263,6 +265,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0423-reconstruct-original-digits-from-english](https://github.com/atharvarakshak/leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0560-subarray-sum-equals-k](https://github.com/atharvarakshak/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/atharvarakshak/leetcode/tree/master/0567-permutation-in-string) |
+| [0816-design-hashset](https://github.com/atharvarakshak/leetcode/tree/master/0816-design-hashset) |
 | [0900-reordered-power-of-2](https://github.com/atharvarakshak/leetcode/tree/master/0900-reordered-power-of-2) |
 | [1006-vowel-spellchecker](https://github.com/atharvarakshak/leetcode/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/atharvarakshak/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -469,8 +472,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/atharvarakshak/leetcode/tree/master/0146-lru-cache) |
+| [0816-design-hashset](https://github.com/atharvarakshak/leetcode/tree/master/0816-design-hashset) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/atharvarakshak/leetcode/tree/master/0146-lru-cache) |
+## Hash Function
+|  |
+| ------- |
+| [0816-design-hashset](https://github.com/atharvarakshak/leetcode/tree/master/0816-design-hashset) |
 <!---LeetCode Topics End-->
