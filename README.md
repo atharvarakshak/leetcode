@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/atharvarakshak/leetcode/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/atharvarakshak/leetcode/tree/master/0148-sort-list) |
 | [0328-odd-even-linked-list](https://github.com/atharvarakshak/leetcode/tree/master/0328-odd-even-linked-list) |
 | [0382-linked-list-random-node](https://github.com/atharvarakshak/leetcode/tree/master/0382-linked-list-random-node) |
@@ -252,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/atharvarakshak/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/atharvarakshak/leetcode/tree/master/0013-roman-to-integer) |
+| [0146-lru-cache](https://github.com/atharvarakshak/leetcode/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/atharvarakshak/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/atharvarakshak/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0299-bulls-and-cows](https://github.com/atharvarakshak/leetcode/tree/master/0299-bulls-and-cows) |
@@ -463,4 +465,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/atharvarakshak/leetcode/tree/master/0830-largest-triangle-area) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/atharvarakshak/leetcode/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/atharvarakshak/leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
