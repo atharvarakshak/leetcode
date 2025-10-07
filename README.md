@@ -107,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0816-design-hashset](https://github.com/atharvarakshak/leetcode/tree/master/0816-design-hashset) |
 | [0830-largest-triangle-area](https://github.com/atharvarakshak/leetcode/tree/master/0830-largest-triangle-area) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/atharvarakshak/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0936-rle-iterator](https://github.com/atharvarakshak/leetcode/tree/master/0936-rle-iterator) |
 | [1006-vowel-spellchecker](https://github.com/atharvarakshak/leetcode/tree/master/1006-vowel-spellchecker) |
 | [1032-satisfiability-of-equality-equations](https://github.com/atharvarakshak/leetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1036-rotting-oranges](https://github.com/atharvarakshak/leetcode/tree/master/1036-rotting-oranges) |
@@ -439,6 +440,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0299-bulls-and-cows](https://github.com/atharvarakshak/leetcode/tree/master/0299-bulls-and-cows) |
 | [0383-ransom-note](https://github.com/atharvarakshak/leetcode/tree/master/0383-ransom-note) |
 | [0900-reordered-power-of-2](https://github.com/atharvarakshak/leetcode/tree/master/0900-reordered-power-of-2) |
+| [0936-rle-iterator](https://github.com/atharvarakshak/leetcode/tree/master/0936-rle-iterator) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/atharvarakshak/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Bitmask
 |  |
@@ -473,6 +475,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0146-lru-cache](https://github.com/atharvarakshak/leetcode/tree/master/0146-lru-cache) |
 | [0816-design-hashset](https://github.com/atharvarakshak/leetcode/tree/master/0816-design-hashset) |
+| [0936-rle-iterator](https://github.com/atharvarakshak/leetcode/tree/master/0936-rle-iterator) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -481,4 +484,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0816-design-hashset](https://github.com/atharvarakshak/leetcode/tree/master/0816-design-hashset) |
+## Iterator
+|  |
+| ------- |
+| [0936-rle-iterator](https://github.com/atharvarakshak/leetcode/tree/master/0936-rle-iterator) |
 <!---LeetCode Topics End-->
