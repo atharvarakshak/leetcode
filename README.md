@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/atharvarakshak/leetcode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/atharvarakshak/leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/atharvarakshak/leetcode/tree/master/0070-climbing-stairs) |
 | [0357-count-numbers-with-unique-digits](https://github.com/atharvarakshak/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0382-linked-list-random-node](https://github.com/atharvarakshak/leetcode/tree/master/0382-linked-list-random-node) |
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/atharvarakshak/leetcode/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/atharvarakshak/leetcode/tree/master/0035-search-insert-position) |
 | [0055-jump-game](https://github.com/atharvarakshak/leetcode/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/atharvarakshak/leetcode/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/atharvarakshak/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/atharvarakshak/leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/atharvarakshak/leetcode/tree/master/0120-triangle) |
