@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/atharvarakshak/leetcode/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/atharvarakshak/leetcode/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/atharvarakshak/leetcode/tree/master/0217-contains-duplicate) |
 | [0220-contains-duplicate-iii](https://github.com/atharvarakshak/leetcode/tree/master/0220-contains-duplicate-iii) |
@@ -87,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/atharvarakshak/leetcode/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/atharvarakshak/leetcode/tree/master/0035-search-insert-position) |
 | [0055-jump-game](https://github.com/atharvarakshak/leetcode/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/atharvarakshak/leetcode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/atharvarakshak/leetcode/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/atharvarakshak/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/atharvarakshak/leetcode/tree/master/0118-pascals-triangle) |
