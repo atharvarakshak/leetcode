@@ -142,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/atharvarakshak/leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/atharvarakshak/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/atharvarakshak/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/atharvarakshak/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/atharvarakshak/leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/atharvarakshak/leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/atharvarakshak/leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -176,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1813-maximum-erasure-value](https://github.com/atharvarakshak/leetcode/tree/master/1813-maximum-erasure-value) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/atharvarakshak/leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/atharvarakshak/leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/atharvarakshak/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/atharvarakshak/leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Enumeration
 |  |
@@ -294,6 +296,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2689-rearranging-fruits](https://github.com/atharvarakshak/leetcode/tree/master/2689-rearranging-fruits) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/atharvarakshak/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/atharvarakshak/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/atharvarakshak/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/atharvarakshak/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/atharvarakshak/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Bucket Sort
@@ -418,6 +421,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/atharvarakshak/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/atharvarakshak/leetcode/tree/master/0658-find-k-closest-elements) |
 | [1917-maximum-average-pass-ratio](https://github.com/atharvarakshak/leetcode/tree/master/1917-maximum-average-pass-ratio) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/atharvarakshak/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Matrix
 |  |
 | ------- |
