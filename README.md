@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/atharvarakshak/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/atharvarakshak/leetcode/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/atharvarakshak/leetcode/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/atharvarakshak/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/atharvarakshak/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/atharvarakshak/leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/atharvarakshak/leetcode/tree/master/0120-triangle) |
@@ -257,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/atharvarakshak/leetcode/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/atharvarakshak/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/atharvarakshak/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/atharvarakshak/leetcode/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/atharvarakshak/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -425,6 +427,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/atharvarakshak/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/atharvarakshak/leetcode/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/atharvarakshak/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0498-diagonal-traverse](https://github.com/atharvarakshak/leetcode/tree/master/0498-diagonal-traverse) |
