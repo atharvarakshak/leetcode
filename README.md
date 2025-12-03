@@ -201,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/atharvarakshak/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/atharvarakshak/leetcode/tree/master/0112-path-sum) |
 | [0337-house-robber-iii](https://github.com/atharvarakshak/leetcode/tree/master/0337-house-robber-iii) |
 | [1484-linked-list-in-binary-tree](https://github.com/atharvarakshak/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/atharvarakshak/leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -208,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/atharvarakshak/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/atharvarakshak/leetcode/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/atharvarakshak/leetcode/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/atharvarakshak/leetcode/tree/master/0210-course-schedule-ii) |
 | [0337-house-robber-iii](https://github.com/atharvarakshak/leetcode/tree/master/0337-house-robber-iii) |
@@ -222,12 +224,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/atharvarakshak/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/atharvarakshak/leetcode/tree/master/0112-path-sum) |
 | [0337-house-robber-iii](https://github.com/atharvarakshak/leetcode/tree/master/0337-house-robber-iii) |
 | [1484-linked-list-in-binary-tree](https://github.com/atharvarakshak/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/atharvarakshak/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/atharvarakshak/leetcode/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/atharvarakshak/leetcode/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/atharvarakshak/leetcode/tree/master/0210-course-schedule-ii) |
 | [0542-01-matrix](https://github.com/atharvarakshak/leetcode/tree/master/0542-01-matrix) |
