@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1448-maximum-69-number](https://github.com/atharvarakshak/leetcode/tree/master/1448-maximum-69-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/atharvarakshak/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/atharvarakshak/leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/atharvarakshak/leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3462-vowels-game-in-a-string](https://github.com/atharvarakshak/leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/atharvarakshak/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3830-find-closest-person](https://github.com/atharvarakshak/leetcode/tree/master/3830-find-closest-person) |
@@ -344,6 +345,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2346-largest-3-same-digit-number-in-string](https://github.com/atharvarakshak/leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/atharvarakshak/leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3396-valid-word](https://github.com/atharvarakshak/leetcode/tree/master/3396-valid-word) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/atharvarakshak/leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3462-vowels-game-in-a-string](https://github.com/atharvarakshak/leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/atharvarakshak/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3931-process-string-with-special-operations-i](https://github.com/atharvarakshak/leetcode/tree/master/3931-process-string-with-special-operations-i) |
@@ -398,6 +400,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0498-diagonal-traverse](https://github.com/atharvarakshak/leetcode/tree/master/0498-diagonal-traverse) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/atharvarakshak/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/atharvarakshak/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/atharvarakshak/leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3931-process-string-with-special-operations-i](https://github.com/atharvarakshak/leetcode/tree/master/3931-process-string-with-special-operations-i) |
 ## Database
 |  |
@@ -526,4 +529,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0936-rle-iterator](https://github.com/atharvarakshak/leetcode/tree/master/0936-rle-iterator) |
+## Combinatorics
+|  |
+| ------- |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/atharvarakshak/leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+## Number Theory
+|  |
+| ------- |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/atharvarakshak/leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 <!---LeetCode Topics End-->
