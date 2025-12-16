@@ -90,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/atharvarakshak/leetcode/tree/master/0001-two-sum) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/atharvarakshak/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/atharvarakshak/leetcode/tree/master/0035-search-insert-position) |
 | [0055-jump-game](https://github.com/atharvarakshak/leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/atharvarakshak/leetcode/tree/master/0056-merge-intervals) |
@@ -273,6 +274,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/atharvarakshak/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/atharvarakshak/leetcode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/atharvarakshak/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/atharvarakshak/leetcode/tree/master/0209-minimum-size-subarray-sum) |
