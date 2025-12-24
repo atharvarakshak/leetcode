@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0658-find-k-closest-elements](https://github.com/atharvarakshak/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/atharvarakshak/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/atharvarakshak/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/atharvarakshak/leetcode/tree/master/3775-reverse-words-with-same-vowel-count) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -367,6 +368,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3396-valid-word](https://github.com/atharvarakshak/leetcode/tree/master/3396-valid-word) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/atharvarakshak/leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3462-vowels-game-in-a-string](https://github.com/atharvarakshak/leetcode/tree/master/3462-vowels-game-in-a-string) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/atharvarakshak/leetcode/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/atharvarakshak/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3931-process-string-with-special-operations-i](https://github.com/atharvarakshak/leetcode/tree/master/3931-process-string-with-special-operations-i) |
 ## Dynamic Programming
@@ -422,6 +424,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/atharvarakshak/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/atharvarakshak/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/atharvarakshak/leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/atharvarakshak/leetcode/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3931-process-string-with-special-operations-i](https://github.com/atharvarakshak/leetcode/tree/master/3931-process-string-with-special-operations-i) |
 ## Database
 |  |
