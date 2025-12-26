@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2887-sort-vowels-in-a-string](https://github.com/atharvarakshak/leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/atharvarakshak/leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/atharvarakshak/leetcode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
+| [3776-minimum-moves-to-balance-circular-array](https://github.com/atharvarakshak/leetcode/tree/master/3776-minimum-moves-to-balance-circular-array) |
 ## Merge Sort
 |  |
 | ------- |
@@ -164,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/atharvarakshak/leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/atharvarakshak/leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/atharvarakshak/leetcode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
+| [3776-minimum-moves-to-balance-circular-array](https://github.com/atharvarakshak/leetcode/tree/master/3776-minimum-moves-to-balance-circular-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/atharvarakshak/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Greedy
 |  |
@@ -179,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/atharvarakshak/leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/atharvarakshak/leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/atharvarakshak/leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+| [3776-minimum-moves-to-balance-circular-array](https://github.com/atharvarakshak/leetcode/tree/master/3776-minimum-moves-to-balance-circular-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/atharvarakshak/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Sliding Window
 |  |
