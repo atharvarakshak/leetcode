@@ -385,6 +385,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/atharvarakshak/leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3462-vowels-game-in-a-string](https://github.com/atharvarakshak/leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/atharvarakshak/leetcode/tree/master/3775-reverse-words-with-same-vowel-count) |
+| [3798-largest-even-number](https://github.com/atharvarakshak/leetcode/tree/master/3798-largest-even-number) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/atharvarakshak/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3931-process-string-with-special-operations-i](https://github.com/atharvarakshak/leetcode/tree/master/3931-process-string-with-special-operations-i) |
 ## Dynamic Programming
