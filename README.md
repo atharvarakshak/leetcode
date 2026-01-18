@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1015-smallest-integer-divisible-by-k](https://github.com/atharvarakshak/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1448-maximum-69-number](https://github.com/atharvarakshak/leetcode/tree/master/1448-maximum-69-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/atharvarakshak/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/atharvarakshak/leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/atharvarakshak/leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/atharvarakshak/leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3462-vowels-game-in-a-string](https://github.com/atharvarakshak/leetcode/tree/master/3462-vowels-game-in-a-string) |
@@ -153,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/atharvarakshak/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/atharvarakshak/leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [2689-rearranging-fruits](https://github.com/atharvarakshak/leetcode/tree/master/2689-rearranging-fruits) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/atharvarakshak/leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/atharvarakshak/leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/atharvarakshak/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/atharvarakshak/leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -555,6 +557,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/atharvarakshak/leetcode/tree/master/0830-largest-triangle-area) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/atharvarakshak/leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Design
 |  |
 | ------- |
