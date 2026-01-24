@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0876-middle-of-the-linked-list](https://github.com/atharvarakshak/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1484-linked-list-in-binary-tree](https://github.com/atharvarakshak/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/atharvarakshak/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/atharvarakshak/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Math
 |  |
 | ------- |
@@ -162,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/atharvarakshak/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/atharvarakshak/leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/atharvarakshak/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/atharvarakshak/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/atharvarakshak/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/atharvarakshak/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/atharvarakshak/leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
@@ -348,6 +350,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2689-rearranging-fruits](https://github.com/atharvarakshak/leetcode/tree/master/2689-rearranging-fruits) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/atharvarakshak/leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/atharvarakshak/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/atharvarakshak/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/atharvarakshak/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/atharvarakshak/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/atharvarakshak/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -360,6 +363,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/atharvarakshak/leetcode/tree/master/0220-contains-duplicate-iii) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/atharvarakshak/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## String
 |  |
 | ------- |
@@ -451,6 +455,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/atharvarakshak/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/atharvarakshak/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/atharvarakshak/leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/atharvarakshak/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/atharvarakshak/leetcode/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3931-process-string-with-special-operations-i](https://github.com/atharvarakshak/leetcode/tree/master/3931-process-string-with-special-operations-i) |
 ## Database
@@ -483,6 +488,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/atharvarakshak/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/atharvarakshak/leetcode/tree/master/0658-find-k-closest-elements) |
 | [1917-maximum-average-pass-ratio](https://github.com/atharvarakshak/leetcode/tree/master/1917-maximum-average-pass-ratio) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/atharvarakshak/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/atharvarakshak/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Matrix
 |  |
@@ -577,6 +583,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/atharvarakshak/leetcode/tree/master/0146-lru-cache) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/atharvarakshak/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Hash Function
 |  |
 | ------- |
